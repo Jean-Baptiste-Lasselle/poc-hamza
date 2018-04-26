@@ -40,9 +40,6 @@ security:
 # ===================================================================
 # JHipster specific properties
 # ===================================================================
-# Je m'appellle David Maurange.
-# Ce fichier là
-
 
 jhipster:
     async:
