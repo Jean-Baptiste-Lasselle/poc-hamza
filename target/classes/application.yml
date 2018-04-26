@@ -43,6 +43,7 @@ security:
 # Je m'appellle David Maurange.
 # Ce fichier là
 
+
 jhipster:
     async:
         corePoolSize: 2
